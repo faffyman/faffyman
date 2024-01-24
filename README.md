@@ -13,7 +13,7 @@
 
 I do technical web applications development, mostly with PHP, not just brochureware websites but more complex integrations.
 
-Primarily I regard myself as a PHP develoepr, with a preeference for working wth Symfony framework. but also raw PHP, legacy systems, other frameworks, and yeah - WordPress as well.
+Primarily I regard myself as a PHP developer, with a preeference for working wth Symfony framework. but also raw PHP, legacy systems, other frameworks, and yeah - WordPress as well.
 
 In recent years I've gotten into Alexa skills, developing skills for several local and national broadcast radio stations and a few private companies including an airport.
 
