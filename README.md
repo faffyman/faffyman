@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 
- - 🔭 I’m currently working on Symfony based Applications, management dashboards and various Alexa Skills
- - 🌱 I’m currently learning more NodeJS and AWS services for Alexa skills development
- - 💬 Ask me about Symfony, Alexa, Deployments, Unit Testing.
+ - 🔭 I’m currently working on creating tools for rapid WordPress development, a Digital Transformation project for a University as well as continuing to suport Symfony based applications and management dashboards for Ireland's leading sporting body.
+ - 🌱 I’m currently researching ReactJS since that's what the native WordPress block builder uses
+ - 💬 Ask me about PHP, WordPress, Symfony, Alexa, Deployments, Unit Testing.
  - 💭 Other things I know about include Linux / Apache / NGINX / MySQL / PHP / Audio Streaming / Alexa / WordPress
  - 🐄 Herd's I belong to: PHPBelfast 
  - 🏆 Zend PHP Certified
- - 🙊 Occasional speaker.
+ - 🙊 Occasional speaker
 
 #### About
 
 I do technical web applications development, mostly with PHP, not just brochureware websites but more complex integrations.
 
-Primarily I regard myself as a PHP developer, with a preeference for working wth Symfony framework. but also raw PHP, legacy systems, other frameworks, and yeah - WordPress as well.
+Primarily I regard myself as a PHP developer, I just happen to work a lot with both WordPress and Symfony framework, but I'm equally happy to jump onto raw PHP, legacy systems or other frameworks. I think those that look down their nose at WordPress need to spend a couple months working with it to see just how fast and flexible it can be. It doesn't diminish your technical skills any more than say Laravel does. It's a proven platform that lets you get things done _fast_, you bring your own technical skills to those projects you work on, and if you're any good, you'll learn something from every project regardless of the platform.
 
 In recent years I've gotten into Alexa skills, developing skills for several local and national broadcast radio stations and a few private companies including an airport.
 
